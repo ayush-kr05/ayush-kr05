@@ -6,7 +6,7 @@
   <br>
    ## 👨🏻‍💻 About Me:
 
-<img  src="https://tecnewss.com/wp-content/uploads/2022/06/01Techfix-print-superJumbo.gif" height="280px" width="auto" align="right" />
+<img  src="https://tecnewss.com/wp-content/uploads/2022/06/01Techfix-print-superJumbo.gif" height="280px"  align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://ayush-kumar-01.netlify.app/)**
 
